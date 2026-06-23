@@ -1,0 +1,10 @@
+order_id,customer_id,customer_name,city,product_id,quantity,unit_price,order_status,payment_method,order_date,rejection_reason
+O031,C031,,Mumbai,P001,1,50000,Completed,UPI,2025-02-11,Missing customer name
+O035,C035,Missing City,,P005,2,800,Completed,UPI,2025-02-15,Missing city
+O036,C036,Zero Qty,Delhi,P006,0,12000,Completed,Card,2025-02-16,Invalid quantity
+O037,C037,Negative Qty,Pune,P007,-2,5000,Completed,Cash,2025-02-17,Invalid quantity
+O038,C038,Wrong Product,Mumbai,P999,1,1000,Completed,UPI,2025-02-18,Product ID not found
+O039,C039,Invalid Payment,Nagpur,P008,1,7000,Completed,Cheque,2025-02-19,Invalid payment method
+O040,C040,Invalid Status,Delhi,P009,1,10000,Shipped,UPI,2025-02-20,Invalid order status
+O041,C041,Bad Date,Mumbai,P010,1,2500,Completed,Card,20-02-2025,Invalid date format
+O001,C051,Duplicate ID,Mumbai,P010,1,2500,Completed,UPI,2025-03-03,Duplicate order ID

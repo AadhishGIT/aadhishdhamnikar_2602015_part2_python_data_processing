@@ -1,0 +1,48 @@
+BUSINESS SUMMARY REPORT
+==================================================
+
+Total Raw Records: 60
+Total Cleaned Records: 51
+Total Rejected Records: 9
+Total Revenue: 671400.0
+
+Revenue By Category
+Electronics: 577000.0
+Accessories: 40400.0
+Furniture: 54000.0
+
+Revenue By City
+Mumbai: 168600.0
+Pune: 202500.0
+Bangalore: 31700.0
+Nagpur: 169200.0
+Delhi: 99400.0
+
+Orders By Payment Method
+UPI: 21
+Card: 16
+Cash: 12
+NetBanking: 2
+
+Top 3 Customers
+Rahul Sharma: 50000.0
+Rakesh Patil: 50000.0
+Arjun Patil: 50000.0
+
+Highest Quantity Product: Mouse
+Highest Revenue Category: Electronics
+
+Rejected Records By Reason
+Missing customer name: 1
+Missing city: 1
+Invalid quantity: 2
+Product ID not found: 1
+Invalid payment method: 1
+Invalid order status: 1
+Invalid date format: 1
+Duplicate order ID: 1
+
+Business Insights
+1. Highest revenue category is Electronics.
+2. Most preferred payment method is UPI.
+3. Total revenue generated from completed orders is ₹671400.00.

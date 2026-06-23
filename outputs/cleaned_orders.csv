@@ -1,0 +1,52 @@
+order_id,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price,total_amount,order_status,payment_method,order_date
+O001,C001,Rahul Sharma,Mumbai,P001,Laptop,Electronics,1,50000,50000.0,Completed,UPI,2025-01-10
+O002,C002,Priya Patel,Pune,P002,Mobile Phone,Electronics,2,20000,40000.0,Completed,Card,2025-01-11
+O003,C003,Amit Kumar,Delhi,P003,Headphones,Electronics,3,3000,9000.0,Pending,Cash,2025-01-12
+O004,C004,Neha Singh,Bangalore,P004,Keyboard,Accessories,1,1500,1500.0,Completed,UPI,2025-01-13
+O005,C005,Vikas Jain,Nagpur,P005,Mouse,Accessories,4,800,3200.0,Completed,Card,2025-01-14
+O006,C006,Sneha Verma,Mumbai,P006,Monitor,Electronics,1,12000,12000.0,Completed,UPI,2025-01-15
+O007,C007,Rohit Shah,Pune,P007,Office Chair,Furniture,2,5000,10000.0,Pending,Cash,2025-01-16
+O008,C008,Karan Mehta,Delhi,P008,Study Desk,Furniture,1,7000,7000.0,Completed,NetBanking,2025-01-17
+O009,C009,Anjali Gupta,Mumbai,P009,Printer,Electronics,1,10000,10000.0,Completed,UPI,2025-01-18
+O010,C010,Pooja Nair,Pune,P010,Webcam,Accessories,2,2500,5000.0,Completed,Card,2025-01-19
+O011,C011,Rakesh Patil,Nagpur,P001,Laptop,Electronics,1,50000,50000.0,Completed,UPI,2025-01-20
+O012,C012,Meera Joshi,Delhi,P002,Mobile Phone,Electronics,1,20000,20000.0,Completed,Cash,2025-01-21
+O013,C013,Ajay Rao,Bangalore,P003,Headphones,Electronics,2,3000,6000.0,Pending,Card,2025-01-22
+O014,C014,Sunita Roy,Mumbai,P004,Keyboard,Accessories,3,1500,4500.0,Completed,UPI,2025-01-23
+O015,C015,Nitin Das,Pune,P005,Mouse,Accessories,5,800,4000.0,Completed,Cash,2025-01-24
+O016,C016,Anita Kulkarni,Nagpur,P006,Monitor,Electronics,1,12000,12000.0,Completed,Card,2025-01-25
+O017,C017,Rajesh Gupta,Delhi,P007,Office Chair,Furniture,2,5000,10000.0,Completed,UPI,2025-01-26
+O018,C018,Deepa Sharma,Bangalore,P008,Study Desk,Furniture,1,7000,7000.0,Pending,Cash,2025-01-27
+O019,C019,Manoj Verma,Mumbai,P009,Printer,Electronics,2,10000,20000.0,Completed,UPI,2025-01-28
+O020,C020,Kavita Singh,Pune,P010,Webcam,Accessories,1,2500,2500.0,Completed,Card,2025-01-29
+O021,C021,Arjun Patil,Nagpur,P001,Laptop,Electronics,1,50000,50000.0,Completed,UPI,2025-02-01
+O022,C022,Reena Shah,Delhi,P002,Mobile Phone,Electronics,2,20000,40000.0,Completed,Cash,2025-02-02
+O023,C023,Sachin Jain,Mumbai,P003,Headphones,Electronics,1,3000,3000.0,Pending,Card,2025-02-03
+O024,C024,Komal Gupta,Pune,P004,Keyboard,Accessories,2,1500,3000.0,Completed,UPI,2025-02-04
+O025,C025,Aakash Rao,Bangalore,P005,Mouse,Accessories,4,800,3200.0,Completed,NetBanking,2025-02-05
+O026,C026,Ritu Sharma,Nagpur,P006,Monitor,Electronics,1,12000,12000.0,Completed,UPI,2025-02-06
+O027,C027,Varun Mehta,Delhi,P007,Office Chair,Furniture,2,5000,10000.0,Completed,Card,2025-02-07
+O028,C028,Shweta Nair,Mumbai,P008,Study Desk,Furniture,1,7000,7000.0,Pending,Cash,2025-02-08
+O029,C029,Harsh Patel,Pune,P009,Printer,Electronics,1,10000,10000.0,Completed,UPI,2025-02-09
+O030,C030,Pallavi Roy,Bangalore,P010,Webcam,Accessories,2,2500,5000.0,Completed,Card,2025-02-10
+O032,C032,Extra Space,Pune,P002,Mobile Phone,Electronics,2,20000,40000.0,Completed,Card,2025-02-12
+O033,C033,Lower Case,Mumbai,P003,Headphones,Electronics,1,3000,3000.0,Completed,UPI,2025-02-13
+O034,C034,Wrong City,Mumbai,P004,Keyboard,Accessories,1,1500,1500.0,Completed,Cash,2025-02-14
+O042,C042,Price Mismatch,Pune,P001,Laptop,Electronics,1,45000,45000.0,Completed,UPI,2025-02-22
+O043,C043,Rohit Sharma,Nagpur,P002,Mobile Phone,Electronics,1,20000,20000.0,Completed,UPI,2025-02-23
+O044,C044,Anjali Verma,Mumbai,P003,Headphones,Electronics,2,3000,6000.0,Completed,Card,2025-02-24
+O045,C045,Kiran Shah,Pune,P004,Keyboard,Accessories,1,1500,1500.0,Completed,Cash,2025-02-25
+O046,C046,Rita Nair,Delhi,P005,Mouse,Accessories,3,800,2400.0,Completed,UPI,2025-02-26
+O047,C047,Abhay Kumar,Bangalore,P006,Monitor,Electronics,1,12000,12000.0,Completed,Card,2025-02-27
+O048,C048,Simran Patel,Mumbai,P007,Office Chair,Furniture,2,5000,10000.0,Completed,UPI,2025-02-28
+O049,C049,Nikhil Jain,Pune,P008,Study Desk,Furniture,1,7000,7000.0,Pending,Cash,2025-03-01
+O050,C050,Preeti Gupta,Nagpur,P009,Printer,Electronics,1,10000,10000.0,Completed,Card,2025-03-02
+O052,C052,Extra Space Name,Pune,P001,Laptop,Electronics,1,50000,50000.0,Completed,Card,2025-03-04
+O053,C053,Upper Case,Mumbai,P002,Mobile Phone,Electronics,2,20000,40000.0,Completed,UPI,2025-03-05
+O054,C054,Another Valid,Delhi,P003,Headphones,Electronics,1,3000,3000.0,Completed,Cash,2025-03-06
+O055,C055,Another Valid,Pune,P004,Keyboard,Accessories,1,1500,1500.0,Completed,UPI,2025-03-07
+O056,C056,Another Valid,Mumbai,P005,Mouse,Accessories,2,800,1600.0,Completed,Card,2025-03-08
+O057,C057,Another Valid,Nagpur,P006,Monitor,Electronics,1,12000,12000.0,Completed,UPI,2025-03-09
+O058,C058,Another Valid,Bangalore,P007,Office Chair,Furniture,2,5000,10000.0,Completed,Cash,2025-03-10
+O059,C059,Another Valid,Delhi,P008,Study Desk,Furniture,1,7000,7000.0,Completed,UPI,2025-03-11
+O060,C060,Another Valid,Mumbai,P009,Printer,Electronics,1,10000,10000.0,Completed,Card,2025-03-12
