@@ -93,11 +93,12 @@ def clean_orders(orders, products):
 
         try:
             actual_price = float(order["unit_price"])
+
         except ValueError:
             reasons.append("Invalid unit price")
 
-            if actual_price != expected_price:
-                reasons.append("Unit price mismatch")
+        if actual_price != expected_price:
+            reasons.append("Unit price mismatch")
 
         if reasons:
 
